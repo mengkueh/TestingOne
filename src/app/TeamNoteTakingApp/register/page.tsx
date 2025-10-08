@@ -47,7 +47,7 @@ export default function TeamNoteTakingPage() {
 
   return (
     <main style={{ padding: 20, fontFamily: 'sans-serif' }}>
-      <h1>WELCOME!<br/>Team Note Taking App</h1>
+      <h1>WELCOME!!!<br/>Team Note Taking App</h1>
       <form onSubmit={handleSubmit} style={{ marginBottom: 20 }}>
         <input
           type="email"
